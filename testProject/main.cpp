@@ -1,4 +1,4 @@
-// OpenGL specific headers
+
 
 //#include "GL/glut.h""       // for using gluLookAt( ... )
 #include "glad/glad.h"
