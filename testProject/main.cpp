@@ -116,14 +116,7 @@ static void key_callback(GLFWwindow* window, int key, int scancode,
 // entry point
 int main(int argc, char* argv[])
 {
-    // check if all command line arguments were supplied
-    //const int CARGS = 1;
-    //if (argc < 1 + CARGS)
-    //{
-    //    std::cout << "Please provide the following:\n\n";
-    //    std::cout << "     [name of the STL file]  \n";
-    //    return 1;
-    //}
+
 
     //--------------------------------------------------
     // read STL geometry (triangle vertices and normals)
